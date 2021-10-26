@@ -38,7 +38,7 @@ a {
 
 .card-head {
   overflow: hidden;
-  width: 225px;
+  width: 245px;
 }
 
 .card-img {
@@ -54,7 +54,7 @@ a {
 }
 
 .card-head {
-  width: 225px;
+  width: 245px;
   height: 200px;
 }
 
@@ -65,7 +65,7 @@ a {
 
 .card-body {
   background: #fff;
-  width: 225px;
+  width: 245px;
   height: 100px;
   border-bottom: 10px solid #046380;
   font-size: 14px;
